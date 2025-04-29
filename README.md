@@ -33,6 +33,8 @@ You can use the `HtmlLoader` class to load HTML content from a URL or file:
 ```csharp
 var html = await HtmlLoader.Load("https://example.com");
 var root = HtmlParser.Parse(html);
+```
+
 
 
 
@@ -77,4 +79,6 @@ var root = HtmlParser.Parse(html);
 ```csharp
 var html = await HtmlLoader.Load("https://example.com");
 var root = HtmlParser.Parse(html);
+```
+
 
