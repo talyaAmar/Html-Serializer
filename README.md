@@ -40,6 +40,11 @@ The project includes a custom DOM tree model, a query parsing mechanism, and adv
   - `Ancestors()` – החזרת כל האבות על בסיס שרשרת ההורים.
 - **מנוע התאמה ריקורסיבי** – איתור אלמנטים בהתאם למבנה היררכי של הסלקטור.
 - **מניעת כפילויות** – שימוש ב-`HashSet<HtmlElement>` כדי להבטיח תוצאה ייחודית.
+- 
+## הערות נוספות
+-מנגנון החיפוש על הצאצאים משתמש בתור ולא ברקורסיה, למניעת קריסות stack בעת עצים עמוקים.
+-מנגנון ההתאמה בין הסלקטור לעץ האלמנטים מבוסס על רקורסיה עם תנאי עצירה ברור בכל רמה.
+
 
 ## התקנה והרצה
 
@@ -50,7 +55,3 @@ The project includes a custom DOM tree model, a query parsing mechanism, and adv
 var html = await HtmlLoader.Load("https://example.com");
 var root = HtmlParser.Parse(html);
 
-### הערות נוספות
-מנגנון החיפוש על הצאצאים משתמש בתור ולא ברקורסיה, למניעת קריסות stack בעת עצים עמוקים.
-
-מנגנון ההתאמה בין הסלקטור לעץ האלמנטים מבוסס על רקורסיה עם תנאי עצירה ברור בכל רמה.
