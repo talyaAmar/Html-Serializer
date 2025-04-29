@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\myProj\project2\project2\bin\Debug\net8.0\project2.exe
+C:\Users\user\Desktop\myProj\project2\project2\bin\Debug\net8.0\HtmlTags.json
+C:\Users\user\Desktop\myProj\project2\project2\bin\Debug\net8.0\HtmlVoidTags.json
+C:\Users\user\Desktop\myProj\project2\project2\bin\Debug\net8.0\project2.deps.json
+C:\Users\user\Desktop\myProj\project2\project2\bin\Debug\net8.0\project2.runtimeconfig.json
+C:\Users\user\Desktop\myProj\project2\project2\bin\Debug\net8.0\project2.dll
+C:\Users\user\Desktop\myProj\project2\project2\bin\Debug\net8.0\project2.pdb
+C:\Users\user\Desktop\myProj\project2\project2\obj\Debug\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\myProj\project2\project2\obj\Debug\net8.0\project2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\myProj\project2\project2\obj\Debug\net8.0\project2.AssemblyInfo.cs
+C:\Users\user\Desktop\myProj\project2\project2\obj\Debug\net8.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\myProj\project2\project2\obj\Debug\net8.0\project2.dll
+C:\Users\user\Desktop\myProj\project2\project2\obj\Debug\net8.0\refint\project2.dll
+C:\Users\user\Desktop\myProj\project2\project2\obj\Debug\net8.0\project2.pdb
+C:\Users\user\Desktop\myProj\project2\project2\obj\Debug\net8.0\project2.genruntimeconfig.cache
+C:\Users\user\Desktop\myProj\project2\project2\obj\Debug\net8.0\ref\project2.dll

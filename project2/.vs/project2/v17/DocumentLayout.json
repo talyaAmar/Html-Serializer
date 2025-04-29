@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\myProj\\project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8A4111-B2A3-485E-9F6E-4955B03B490B}|project2\\project2.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\myproj\\project2\\project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8A4111-B2A3-485E-9F6E-4955B03B490B}|project2\\project2.csproj|solutionrelative:project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8A4111-B2A3-485E-9F6E-4955B03B490B}|project2\\project2.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\myproj\\project2\\project2\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8A4111-B2A3-485E-9F6E-4955B03B490B}|project2\\project2.csproj|solutionrelative:project2\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8A4111-B2A3-485E-9F6E-4955B03B490B}|project2\\project2.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\myproj\\project2\\project2\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8A4111-B2A3-485E-9F6E-4955B03B490B}|project2\\project2.csproj|solutionrelative:project2\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8A4111-B2A3-485E-9F6E-4955B03B490B}|project2\\project2.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\myproj\\project2\\project2\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8A4111-B2A3-485E-9F6E-4955B03B490B}|project2\\project2.csproj|solutionrelative:project2\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2066826798:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\myProj\\project2\\project2\\Program.cs",
+              "RelativeDocumentMoniker": "project2\\Program.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\myProj\\project2\\project2\\Program.cs",
+              "RelativeToolTip": "project2\\Program.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAwH4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:40:27.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\myProj\\project2\\project2\\Selector.cs",
+              "RelativeDocumentMoniker": "project2\\Selector.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\myProj\\project2\\project2\\Selector.cs",
+              "RelativeToolTip": "project2\\Selector.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwEgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T23:04:32.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "htmlElement.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\myProj\\project2\\project2\\htmlElement.cs",
+              "RelativeDocumentMoniker": "project2\\htmlElement.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\myProj\\project2\\project2\\htmlElement.cs",
+              "RelativeToolTip": "project2\\htmlElement.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAqwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:50:15.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlHelper.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\myProj\\project2\\project2\\HtmlHelper.cs",
+              "RelativeDocumentMoniker": "project2\\HtmlHelper.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\myProj\\project2\\project2\\HtmlHelper.cs",
+              "RelativeToolTip": "project2\\HtmlHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:41:43.925Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 900,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 738,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
