@@ -8,7 +8,7 @@ The project includes a custom DOM tree model, a query parsing mechanism, and adv
 - **Programming Language:** ‎C#‎  
 - **Development Environment:** ‎.NET 8  
 - **Development Tools:** Visual Studio, LINQPad  
-- **HTML Parsing:** HtmlAgilityPack (or custom implementation for parsing HTML)
+- **HTML Parsing:** custom implementation for parsing HTML
 
 ## Key Features
 - **HTML Loading** – Support for loading HTML from files or URLs and generating the DOM structure.
@@ -18,7 +18,7 @@ The project includes a custom DOM tree model, a query parsing mechanism, and adv
 
 
 
-# פרויקט 3 | מנוע שאילתות לעץ HTML ב־.NET
+# פרויקט 2 | מנוע שאילתות לעץ HTML ב־.NET
 
 ## תיאור הפרויקט
 מנוע מבוסס .NET לטעינה, ניתוח ותשאול של עץ HTML באמצעות תחביר CSS Selector פשוט.  
@@ -28,7 +28,7 @@ The project includes a custom DOM tree model, a query parsing mechanism, and adv
 - **שפת תכנות:** ‎C#‎  
 - **סביבת עבודה:** ‎.NET 8  
 - **כלי פיתוח:** Visual Studio, LINQPad  
-- **ניתוח HTML:** ספריית HtmlAgilityPack *(או מימוש עצמאי לפירוק HTML)*
+- **ניתוח HTML:** מימוש עצמאי לפירוק HTML
 
 ## תכונות עיקריות
 - **טעינת HTML** – תמיכה בטעינה מקובץ או כתובת URL ויצירת מבנה DOM.
@@ -50,3 +50,7 @@ The project includes a custom DOM tree model, a query parsing mechanism, and adv
 var html = await HtmlLoader.Load("https://example.com");
 var root = HtmlParser.Parse(html);
 
+### הערות נוספות
+מנגנון החיפוש על הצאצאים משתמש בתור ולא ברקורסיה, למניעת קריסות stack בעת עצים עמוקים.
+
+מנגנון ההתאמה בין הסלקטור לעץ האלמנטים מבוסס על רקורסיה עם תנאי עצירה ברור בכל רמה.
